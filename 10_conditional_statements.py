@@ -1,4 +1,3 @@
-IndentationError: expected an indented block
 if (5 > 3):
     print("hello")
 
@@ -7,14 +6,14 @@ michelle="woman"
 logan="man"
 
 if (logan == steve):
-    print("same sex")
+    print("same gender")
 
 if (logan == michelle):
-    print("same sex")
+    print("same gender")
     
 if (logan == michelle or logan == steve):
-    print("at lease some same sex")
+    print("at lease some same gender")
 
 if (logan == michelle and logan == steve):
-    print("all same sex")
+    print("all same gender")
  
